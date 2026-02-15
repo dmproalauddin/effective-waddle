@@ -6,22 +6,22 @@ Your transaction has been completed successfully.
 
 ## 🧾 BILLING SUMMARY
 
-**Order ID:** MSX-9142A  
-**Date:** 05 Feb 2026  
+**Order ID:** ODF5_15LK  
+**Date:** 14 Feb 2026  
 **Status:** Completed  
 
 ---
 
 ## 💳 PAYMENT DETAILS
 
-| Item | Plan | Qty | Amount |
-|-----|------|-----|--------|
-| Support Service | Annual | 1 | $478.99 |
+| Item             | Plan    | Qty | Amount  |
+|-----------------|---------|-----|--------|
+| Software Suite   | Monthly | 1   | $129.40 |
 
 ---
 
 ## 💰 TOTAL PAID
-### $478.99 USD
+### $129.40 USD
 
 ---
 
@@ -33,8 +33,4 @@ Your service is activated and ready to use.
 ## ☎ CUSTOMER SUPPORT
 If you do not recognize this transaction, contact official support immediately.
 
-Support Center: +1 865 321 6980  
-
----
-
-**Thank you for choosing our services.**
+**Support Center**
