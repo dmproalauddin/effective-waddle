@@ -11,7 +11,7 @@ ACCOUNT REVIEW:
 If you do not recognize this purchase, review your account activity and contact
 the service provider through official support channels.
 
----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
 Customer Care: +1 865 321 6980
 ---------------------------------------------------------------------------------------
 
