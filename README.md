@@ -6,7 +6,7 @@ Your transaction has been completed successfully.
 
 ## 🧾 BILLING SUMMARY
 
-**Order ID:** ODF5_15LK  
+**Order ID:** ODF5_15LKD  
 **Date:** 14 Feb 2026  
 **Status:** Completed  
 
