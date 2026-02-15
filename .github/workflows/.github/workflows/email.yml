@@ -1,0 +1,27 @@
+name: Send Email on Commit
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  send-email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send email
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: Payment processed successfully
+          to: YOUR_EMAIL@gmail.com
+          from: GitHub Notification
+          body: |
+            BILLING SUMMARY
+
+            Amount: $478.99
+            Status: Completed
+            Repository: effective-waddle
