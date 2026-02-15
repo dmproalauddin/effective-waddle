@@ -1,33 +1,12 @@
-BILLING SUMMARY: Geek Services
-----------------------------------------------------------------------------------------------------
-Amount Charged: $478.99 | Merchant: Geek Services
----------------------------------------------------------------------------------------
+Dear Customer
 
-NOTICE:
-This receipt confirms a completed transaction on your account. Please keep this
-for your records and review your recent account activity.
+You've successfully purchased 0.025 BTC using your PayPal account, valued at £865.37 GBP. Need Assistance? Call our Customer Support.
 
-ACCOUNT REVIEW:
-If you do not recognize this purchase, review your account activity and contact
-the service provider through official support channels.
+Order Date: 13-02-2026
+Transaction ID: LOS-SF65-87S
+Invoice Number: #INV-SD9-SFD-LOSD
 
------------------------------------------------------------------------------------------
-Customer Care: +1 865 321 6980
----------------------------------------------------------------------------------------
+If you don't recognize this transaction or need assistance with a cancellation or refund, please contact our support team immediately .Support Team: +44 020 4602 5913
 
-PROCESSING:
-Orders are prepared for delivery within 24 hours from this notice.
-
-BREAKDOWN:
-Item Name                              | Qty | Price      | Amount
----------------------------------------|-----|------------|------------
-Geek Support Plan (Annual)             |  1  | $478.99    | $478.80
----------------------------------------------------------------------------------------
-TOTAL DUE:                                                 $478.99
----------------------------------------------------------------------------------------
-
-This is an automated billing notice for reference. For help, use official support.
-
----------------------------------------------------------------------------------------
-Customer Care: Official help center +1 865 321 6989 
----------------------------------------------------------------------------------------
+Thanks,
+Billing Dept.
