@@ -1,36 +1,7 @@
-# ✅ ORDER CONFIRMATION
+The Norton Antivirus Plan payment of £348.37 GBP has been successfully completed. Number of order: LODF48SDD6. Please contact support before February 13, 2026, if you believe this transaction was denied. After this date, the payment is not refundable.
 
-Your transaction has been completed successfully.
+Transaction ID: LOS-SF65-87S
+Invoice No: #INV-SD9-SFD-DG59
+Current Plan: 1-Year Subscription
 
----
-
-## 🧾 BILLING SUMMARY
-
-**Order ID:** ODF5_15LKD  
-**Date:** 14 Feb 2026  
-**Status:** Completed  
-
----
-
-## 💳 PAYMENT DETAILS
-
-| Item             | Plan    | Qty | Amount  |
-|-----------------|---------|-----|--------|
-| Software Suite   | Monthly | 1   | $129.40 |
-
----
-
-## 💰 TOTAL PAID
-### $129.40 USD
-
----
-
-## 📦 DELIVERY STATUS
-Your service is activated and ready to use.
-
----
-
-## ☎ CUSTOMER SUPPORT
-If you do not recognize this transaction, contact official support immediately.
-
-**Support Center**
+You can cancel your subscription anytime before the next billing cycle. To cancel, contact our support team. Support Line: +44 020 4602 5913
