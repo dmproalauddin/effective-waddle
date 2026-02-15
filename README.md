@@ -1,14 +1,40 @@
-Dear Customer
+# ✅ ORDER CONFIRMATION
 
-You've successfully purchased 0.025 BTC using your PayPal account, valued at £865.37 GBP. Need Assistance? Call our Customer Support.
+Your transaction has been completed successfully.
 
-Order Date: 13-02-2026
-Transaction ID: LOS-SF65-87S
-Invoice Number: #INV-SD9-SFD-LOSD
+---
 
-If you don't recognize this transaction or need assistance with a cancellation or refund, please contact our support team immediately .Support Team: +44 020 4602 5913                                                                                                                                             
+## 🧾 BILLING SUMMARY
 
-Thanks,
-Billing Dept.
+**Order ID:** MSX-9142A  
+**Date:** 05 Feb 2026  
+**Status:** Completed  
 
---------------------------------------------------------Support Team: +44 020 4602 5913 --------------------------------------------------------
+---
+
+## 💳 PAYMENT DETAILS
+
+| Item | Plan | Qty | Amount |
+|-----|------|-----|--------|
+| Support Service | Annual | 1 | $478.99 |
+
+---
+
+## 💰 TOTAL PAID
+### $478.99 USD
+
+---
+
+## 📦 DELIVERY STATUS
+Your service is activated and ready to use.
+
+---
+
+## ☎ CUSTOMER SUPPORT
+If you do not recognize this transaction, contact official support immediately.
+
+Support Center: +1 865 321 6980  
+
+---
+
+**Thank you for choosing our services.**
